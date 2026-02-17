@@ -10,6 +10,8 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@remixicon/react": "^4.9.0",
+    "class-variance-authority": "^0.7.1",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
